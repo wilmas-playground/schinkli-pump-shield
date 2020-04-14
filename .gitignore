@@ -1,0 +1,9 @@
+# export files for BOM
+*.csv
+*.tsv
+*.xml
+*.zip
+# project cache
+*cache*
+# backup files
+*.*-bak
